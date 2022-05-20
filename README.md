@@ -5,7 +5,7 @@ Figure 1 - distribution of phenotypes - "Res_distrib_9.21.21.R"
 
 Figure 2 - correlation between phenotypes - "Res_corr_for_pub_9.8.21.R"
 
-Tables 1:3 - Bivariate relationships controlled for demographics - "Resilience_bivar_6.29.21.R"
+Tables 1:3 - bivariate relationships controlled for demographics - "Resilience_bivar_1.18.22.R"
 
 Supplementary Table 1 - demographic table - "Res_sample_6.16.21.R"
 
